@@ -1,0 +1,32 @@
+<Monstros>
+    <Monstro>
+        <nome>Ogro Quântico</nome>
+        <poder>15</poder>
+        <tesouros>2</tesouros>
+        <niveisPerdidos>1</niveisPerdidos>
+    </Monstro>
+    <Monstro>
+        <nome>Conde Strahd Von Zarovich</nome>
+        <poder>21</poder>
+        <tesouros>4</tesouros>
+        <niveisPerdidos>4</niveisPerdidos>
+    </Monstro>
+    <Monstro>
+        <nome>Demogorgon</nome>
+        <poder>36</poder>
+        <tesouros>2</tesouros>
+        <niveisPerdidos>7</niveisPerdidos>
+    </Monstro>
+    <Monstro>
+        <nome>Tiamat</nome>
+        <poder>58</poder>
+        <tesouros>1</tesouros>
+        <niveisPerdidos>1</niveisPerdidos>
+    </Monstro>
+    <Monstro>
+        <nome>Vecna</nome>
+        <poder>10</poder>
+        <tesouros>3</tesouros>
+        <niveisPerdidos>2</niveisPerdidos>
+    </Monstro>
+</Monstros>

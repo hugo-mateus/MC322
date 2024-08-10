@@ -1,0 +1,14 @@
+<Jogadores>
+    <Jogador>
+        <nome>Andrea</nome>
+        <nivel>1</nivel>
+        <raça>ANAO</raça>
+        <classe>MAGO</classe>
+    </Jogador>
+    <Jogador>
+        <nome>Alexandre</nome>
+        <nivel>1</nivel>
+        <raça>HUMANO</raça>
+        <classe>LADRAO</classe>
+    </Jogador>
+</Jogadores>
